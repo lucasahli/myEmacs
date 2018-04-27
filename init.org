@@ -1,0 +1,1 @@
+;; Hi I am the hopfully opened configuration file
