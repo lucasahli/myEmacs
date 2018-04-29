@@ -6,3 +6,6 @@
 
 ;; tangle the opened "init.org" file --> When Org tangles ‘src’ code blocks, it expands, merges, and transforms them.
 (org-babel-tangle)
+
+;; load it
+;;(load-file (concat user-emacs-directory "init.el"))
