@@ -8,4 +8,4 @@
 (org-babel-tangle)
 
 ;; load it
-(load-file (concat user-emacs-directory "init.el"))
+;;(load-file (concat user-emacs-directory "init.el"))
